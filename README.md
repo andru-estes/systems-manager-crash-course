@@ -12,12 +12,12 @@ Teachable
 Udemy
 > Udemy URL
 
-
+----
 ## Course Layout
 There are several sections that make up the course.  We will dive into each major capability that is offered, provide and overview, and then also provide an advanced demo on how to use said capability. 
 
-
-### Demo and Code Layout
+----
+## Demo and Code Layout
 The course will cover a broad amount of services and capabilities offered within AWS Systems Manager.  
 
 Each course section we dive into will have a few different folders within.  There will be the following:
@@ -30,3 +30,4 @@ Each course section we dive into will have a few different folders within.  Ther
 > DIAGRAMS
 >> If there are any diagrams related to the exercises/code, then they will be included within here.
 
+----

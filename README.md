@@ -4,10 +4,16 @@
 # AWS Systems Manager Crash Course
 Hello! This repository will contain all code that is used within the Systems Manager Crash Course, brought to you by QuickToCloud!
 
-The course is available for purchase on a couple platforms currently:
+The course is available for purchase on a couple platforms currently.
 
+Teachable
 > Teachble URL <br >
+
+Udemy
 > Udemy URL
 
 
-## 
+## Course Layout
+There are several sections that make up the course.  We will dive into each major capability that is offered, provide and overview, and then also provide an advanced demo on how to use said capability. 
+
+

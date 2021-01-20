@@ -1,0 +1,8 @@
+[default]
+role_arn = arn:aws:iam::%MANAGEMENT_ACCOUNT_ID%:role/OrganizationAccountAccessRole
+region = us-east-2
+output = json
+
+[profile operations]
+role_arn = arn:aws:iam::%OPERATIONS_ACCOUNT_ID%:role/OrganizationAccountAccessRole
+source_profile = default

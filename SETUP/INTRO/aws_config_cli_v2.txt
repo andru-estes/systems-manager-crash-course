@@ -1,0 +1,11 @@
+[default]
+sso_start_url = https://%YOUR_AWS_SSO_URL%/
+sso_region = us-east-2
+sso_account_id = %AWS_SSO_ACCT_ID%
+sso_role_name = AdministratorAccess
+region = us-east-2
+output = json
+
+[profile operations]
+role_arn = arn:aws:iam::%OPERATIONS_ACCOUNT_ID%:role/OrganizationAccountAccessRole
+source_profile = default
